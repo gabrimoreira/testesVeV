@@ -1,6 +1,6 @@
 # testesVeV
 
-Este repositório contém os códigos e trabalhos desenvolvidos para a disciplina **CK0241 - Verificação, Validação e Teste de Software**.
+Este repositório vai conter os códigos e trabalhos desenvolvidos para a disciplina **CK0241 - Verificação, Validação e Teste de Software**.
 
 ## Objetivo
 
