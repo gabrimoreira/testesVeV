@@ -14,6 +14,6 @@ A aplicação escolhida para as análises foi a [Tomato Food Ordering](https://g
 
 ## Autores
 
-- **Gabriel Andrade**, **Fábio Filho** e "Álvaro Siqueira"
+- **Gabriel Andrade**, **Fábio Filho** e **Álvaro Siqueira**
 
 
