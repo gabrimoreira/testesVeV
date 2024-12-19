@@ -8,7 +8,7 @@ O principal objetivo é realizar análises, testes e validações em aplicaçõe
 
 ## Aplicação Base
 
-A aplicação escolhida para as análises foi a [Tomato Food Ordering](https://github.com/AthrvaNaik/Tomato-FoodOrdering.git), uma aplicação de pedidos de comida. Utilizaremos esta aplicação como base para explorar e implementar conceitos relacionados a V&V.
+A aplicação escolhida para as análises foi a [Tomato Food Ordering](https://github.com/AthrvaNaik/Tomato-FoodOrdering.git), uma aplicação de pedidos de comida. Utilizaremos esta aplicação como base para implementar conceitos relacionados a V&V.
 
 
 
